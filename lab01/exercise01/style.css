@@ -11,7 +11,7 @@ Add some style blocks below this line to style the card.
 */
 section {
     width: 300px;
-    border: solid 1px grey;
+    border: solid 1px #cfccc4;
     margin: 15px;
     padding-bottom: 15px;
 }
